@@ -1,0 +1,23 @@
+{
+  "name": "rb_expressapp",
+  "version": "1.0.0",
+  "description": "A sample express application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "author": "Richard Berry",
+  "license": "ISC",
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "express": "^4.15.3",
+    "yo": "^1.8.5"
+  }
+}
